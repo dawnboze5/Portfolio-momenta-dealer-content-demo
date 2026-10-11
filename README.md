@@ -10,6 +10,10 @@
 - **平台功能模块优化与数据看板升级**：完成两大功能模块设计——内容中心、数据看板。
   - **内容中心**：可跳转至公司⻜书资料库，便于经销商查找资料并下载。
   - **数据看板**：实现了⾃动识别、上传链接、周报展⽰、多维分析功能，使数据录⼊⼯作量降低、数据展⽰更清晰。
+<img width="2559" height="1323" alt="登录页" src="https://github.com/user-attachments/assets/61a799de-98ec-414e-a038-8f1718708308" />
+<img width="2559" height="1323" alt="市场部视角-1" src="https://github.com/user-attachments/assets/6a330101-14d5-46d0-9e98-97051f998fba" />
+<img width="2559" height="1323" alt="市场部视角-2" src="https://github.com/user-attachments/assets/ffe07256-f428-4fa4-a61c-274bc93856a3" />
+<img width="2559" height="1323" alt="经销商视角-1" src="https://github.com/user-attachments/assets/010af803-2a10-4d49-9975-fd5ab12ea128" />
 
 ## 说明
 
